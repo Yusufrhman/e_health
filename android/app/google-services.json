@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "61078995779",
+    "project_id": "e-health-dab71",
+    "storage_bucket": "e-health-dab71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61078995779:android:6cf17c763fb805e7d2e5f6",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkrTjp4Dp64GER_wJ0daaMak0UK5ozuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61078995779:android:9309e493dded6502d2e5f6",
+        "android_client_info": {
+          "package_name": "com.example.e_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkrTjp4Dp64GER_wJ0daaMak0UK5ozuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61078995779:android:02590052bd3ac99fd2e5f6",
+        "android_client_info": {
+          "package_name": "com.example.ehealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkrTjp4Dp64GER_wJ0daaMak0UK5ozuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
